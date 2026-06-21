@@ -16,7 +16,7 @@ curl.exe -L "https://raw.githubusercontent.com/T3chieJack/FlipperPlayer/main/ins
 Open a Terminal and run:
 
 ```Terminal
-curl.exe -L "https://raw.githubusercontent.com/T3chieJack/FlipperPlayer/main/install.cmd" -o "%TEMP%\FlipperPlayer-install.cmd" && call "%TEMP%\FlipperPlayer-install.cmd"
+curl -L "https://raw.githubusercontent.com/T3chieJack/FlipperPlayer/main/install.sh" -o /tmp/FlipperPlayer-install.sh && chmod +x /tmp/FlipperPlayer-install.sh && /tmp/FlipperPlayer-install.sh
 ```
 
 The installer:
