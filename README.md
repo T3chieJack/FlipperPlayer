@@ -1,14 +1,21 @@
 # FlipperPlayer
 
-FlipperPlayer is a Windows desktop player for Flipper Zero animation frames.
+FlipperPlayer is a Windows/Linux desktop player for Flipper Zero animation frames.
 
 ## Install
 
 Python 3.11 or newer is required. Download Python from [python.org](https://www.python.org/downloads/) and enable **Add Python to PATH** during installation.
 
+# WINDOWS
 Open Command Prompt and run:
 
 ```cmd
+curl.exe -L "https://raw.githubusercontent.com/T3chieJack/FlipperPlayer/main/install.cmd" -o "%TEMP%\FlipperPlayer-install.cmd" && call "%TEMP%\FlipperPlayer-install.cmd"
+```
+# Linux
+Open a Terminal and run:
+
+```Terminal
 curl.exe -L "https://raw.githubusercontent.com/T3chieJack/FlipperPlayer/main/install.cmd" -o "%TEMP%\FlipperPlayer-install.cmd" && call "%TEMP%\FlipperPlayer-install.cmd"
 ```
 
