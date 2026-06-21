@@ -1,1 +1,1 @@
-https://github.com/T3chieJack/FlipperPlayer/releases/download/Stable/v1.0.0.zip
+https://raw.githubusercontent.com/T3chieJack/FlipperPlayer/main/versions/v1.0.0.zip
