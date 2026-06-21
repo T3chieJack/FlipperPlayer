@@ -1,9 +1,3 @@
-﻿"""FlipperPlayer - high-quality Figma-style Flipper animation player.
-
-Pygame/SDL performs the real SVG rendering. UI geometry is supersampled for
-clean rounded corners; the monochrome animation is always scaled with nearest
-neighbour so each source pixel stays hard-edged.
-"""
 from __future__ import annotations
 
 import io
