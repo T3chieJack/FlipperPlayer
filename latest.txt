@@ -1,1 +1,1 @@
-https://github.com/T3chieJack/FlipperPlayer/archive/refs/tags/a.zip
+https://github.com/T3chieJack/FlipperPlayer/releases/tag/Stable
